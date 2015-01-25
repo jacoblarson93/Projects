@@ -1,6 +1,6 @@
 /*
 
-Hangman
+Hangman game for you to enjoy
 
 */
 
